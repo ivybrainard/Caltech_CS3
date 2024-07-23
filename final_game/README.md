@@ -3,7 +3,7 @@
 ## Section 0: Summary
 
 Space Escape
-Stavya Arora, Isha Goswami, Ivy Brainard
+Ivy Brainard Stavya Arora, Isha Goswami,
 An astronaut (or multiple) navigates space in a straight path while avoiding obstacles in the form of rocket ships (which can be climbed on) and meteors on multiple tracks.
 
 ## Section 1: Gameplay
@@ -31,17 +31,3 @@ Priority 4 features:
 - Single and dual player modes: There will be a mode of the game where two players can play the game at once and compete against each other for the highest score. Once one player loses, the screen will render to a new screen with text congratulating the player who won.
 - Music: There will be sound effects for when the game is over.
 - Power-ups: While the player can collect coins, there will also be power-ups instead of coins every now and then which can give the player some type of boost (adding extra points or going through all obstacles for a certain period of time after collecting the power up without losing a life). 
-
-
-## Section 3: Timeline
-
-|        |   stavya  |      ivy      |                 isha                 |
-| ------ | ----------| ------------  | ------------------------------------ | 
-| week 1 | Text, key functionality with different types of obstacles | Button, mouse, player customization | Image rendering, different scenes, changing background throughout game, collision detection |
-| week 2 | Game difficulty progression     | money counter | health                  |
-| week 3 | music     | Single vs dual player    | power-ups         |
-
-
-
-## Section 4: Disaster Recovery
-To ensure that no one falls behind, we will make sure to check in every few days with each other to ensure continuous progress on the project. We will also make sure that if any team member gets stuck on a bug, that the others can help them to ensure that there is not any unnecessary time wasted, or that one member gets unfairly behind. In general, if anyone gets behind on their features, we would deprioritize the later features to ensure that the foundational basis for the game is functionable. Specifically, for Isha, she will focus on basic collision detection between any obstacles and the players before pursuing different types of obstacles. For Ivy, she will make sure that the users are able to navigate between the different screens of the game before implementing various game modes. For Stavya, she will ensure that the user is able to properly use the keys before worrying about implementing music in the background. Additionally, if any member of the team falls behind, they understand that continual progress on the game may have to take priority over other commitments until they are properly caught up and pulling their ‘weight’ on the game. 
